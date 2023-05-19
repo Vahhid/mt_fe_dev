@@ -7,12 +7,24 @@ h1{
     color:green;
     background-color: red;
     text-transform: capitalize;
+    text-decoration: underline yellow solid;
+    border-width: thick;
+    border:solid green;
 }
 .not{
     color:pink;
     background-color: blue;
     text-transform: lowercase;
+    border-width: medium;
+    border:solid rgb(0, 0, 0);
 }
-body{
+
+p{
     background-color: black;
+    border:solid green;
+    color:white;
+    border-width: thick;
+    padding: 15px;
+    margin: 10px;
+
 }
