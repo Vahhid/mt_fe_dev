@@ -1,4 +1,18 @@
 h1{
     color:blue;
     background-color: yellow;
+    text-transform: capitalize;
+}
+#first{
+    color:green;
+    background-color: red;
+    text-transform: capitalize;
+}
+.not{
+    color:pink;
+    background-color: blue;
+    text-transform: lowercase;
+}
+body{
+    background-color: black;
 }
